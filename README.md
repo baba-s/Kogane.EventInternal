@@ -1,0 +1,1 @@
+# Kogane.EventInternal
